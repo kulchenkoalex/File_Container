@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <chak>0</chak>
+  <type_archiv_1>true</type_archiv_1>
+  <type_archiv_2>false</type_archiv_2>
+</Param>
